@@ -1,0 +1,77 @@
+.footer-container {
+    position: relative;
+    background: #ffffff;
+    color: #333333;
+    text-align: center;
+    padding: 40px 20px 60px;
+    overflow: hidden;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer-content {
+    position: relative;
+    z-index: 10;
+}
+
+.footer-content h2 {
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 8px;
+    color: #555555;
+}
+
+.footer-content p {
+    font-weight: 400;
+    font-size: 16px;
+    margin: 4px 0;
+    color: #777777;
+}
+
+/* Wave shapes */
+.footer-wave {
+    position: absolute;
+    width: 200%;
+    height: 100px;
+    left: -50%;
+    bottom: 0;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: 50% 100px;
+    opacity: 0.7;
+    border-radius: 100% / 50%;
+    filter: drop-shadow(0 2px 2px rgba(0, 0, 0, 0.05));
+    animation: waveAnimation 6s ease-in-out infinite;
+}
+
+.wave1 {
+    background: linear-gradient(90deg, #d9d9d9 0%, #bfbfbf 100%);
+    animation-delay: 0s;
+    bottom: 0;
+    z-index: 7;
+}
+
+.wave2 {
+    background: linear-gradient(90deg, #a0a0a0 0%, #7f7f7f 100%);
+    animation-delay: 2s;
+    bottom: 10px;
+    z-index: 6;
+}
+
+.wave3 {
+    background: linear-gradient(90deg, #6f6f6f 0%, #4f4f4f 100%);
+    animation-delay: 4s;
+    bottom: 20px;
+    z-index: 5;
+}
+
+@keyframes waveAnimation {
+
+    0%,
+    100% {
+        transform: translateX(0);
+    }
+
+    50% {
+        transform: translateX(25%);
+    }
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "product": "Bottled Water",
+    "category": "Beverages",
+    "quantity": 5,
+    "total": 50,
+    "date": "2025-09-11T14:13:02.230Z",
+    "id": 1757599982234
+  },
+  {
+    "product": "Potato Chips",
+    "category": "Snacks",
+    "quantity": 9,
+    "total": 108,
+    "date": "2025-09-11T14:19:15.699Z",
+    "id": 1757600355702
+  },
+  {
+    "product": "Lunch meal",
+    "category": "Food",
+    "quantity": 10,
+    "total": 300,
+    "date": "2025-09-11T14:19:29.029Z",
+    "id": 1757600369032
+  },
+  {
+    "product": "Doritos",
+    "category": "snack",
+    "quantity": 10,
+    "total": 200,
+    "date": "2025-09-11T18:52:54.682Z",
+    "id": 1757616774683
+  },
+  {
+    "product": "Lunch meal",
+    "category": "Food",
+    "quantity": 16,
+    "total": 480,
+    "date": "2025-09-11T18:53:34.821Z",
+    "id": 1757616814822
+  },
+  {
+    "product": "Energy Drink",
+    "category": "Beverages",
+    "quantity": 55,
+    "total": 1375,
+    "date": "2025-09-11T18:54:32.413Z",
+    "id": 1757616872416
+  },
+  {
+    "product": "Classic Iced Coffee",
+    "category": "Beverages",
+    "quantity": 20,
+    "total": 400,
+    "date": "2025-09-12T14:41:57.076Z",
+    "id": 1757688117080
+  },
+  {
+    "product": "Classic Iced Coffee",
+    "category": "Beverages",
+    "quantity": 10,
+    "total": 200,
+    "date": "2025-09-12T14:42:14.323Z",
+    "id": 1757688134322
+  }
+]

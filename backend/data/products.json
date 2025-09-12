@@ -1,0 +1,200 @@
+[
+  {
+    "id": 3,
+    "name": "Coffee",
+    "description": "Freshly brewed coffee",
+    "category": "Beverages",
+    "price": 15,
+    "quantity": 40,
+    "images": [
+      "/images/products/Coffee.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Bottled Water",
+    "description": "500ml purified water",
+    "category": "Beverages",
+    "price": 20,
+    "quantity": 70,
+    "images": [
+      "/images/products/Bottled-Water.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Tea",
+    "description": "Hot tea with milk option",
+    "category": "Beverages",
+    "price": 6,
+    "quantity": 50,
+    "images": [
+      "/images/products/Tea.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Energy Drink",
+    "description": "250ml energy boost",
+    "category": "Beverages",
+    "price": 25,
+    "quantity": 15,
+    "images": [
+      "/images/products/Energy-Drink1.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Liquid fruit",
+    "description": "300ml assorted flavors",
+    "category": "Beverages",
+    "price": 19,
+    "quantity": 30,
+    "images": [
+      "/images/products/Liquid-fruit.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Sandwich",
+    "description": "Chicken/Vegetable sandwich",
+    "category": "Food",
+    "price": 45,
+    "quantity": 17,
+    "images": [
+      "/images/products/Sandwich.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Potato Chips",
+    "description": "Pack of crisps",
+    "category": "Snacks",
+    "price": 12,
+    "quantity": 28,
+    "images": [
+      "/images/products/Potato-Chips1.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Popcorn",
+    "description": "Buttered popcorn pack",
+    "category": "Snacks",
+    "price": 15,
+    "quantity": 30,
+    "images": [
+      "/images/products/Popcorn1.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "fat-cakes",
+    "description": "it's always mouth watering",
+    "category": "Snacks",
+    "price": 5.5,
+    "quantity": 0,
+    "images": [
+      "/images/products/fat-cakes.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Fries",
+    "description": "always taste like the first time",
+    "category": "Food",
+    "price": 20,
+    "quantity": 50,
+    "images": [
+      "/images/products/Fries1.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Fried fish",
+    "description": "once tasted no going back",
+    "category": "Food",
+    "price": 30,
+    "quantity": 30,
+    "images": [
+      "/images/products/Fried-fish.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Burgers",
+    "description": "cheese burger",
+    "category": "Food",
+    "price": 15,
+    "quantity": 30,
+    "images": [
+      "/images/products/Burgers.jpg"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Lunch meal",
+    "description": "pap & pork",
+    "category": "Food",
+    "price": 30,
+    "quantity": 4,
+    "images": [
+      "/images/products/pork.jpg"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "bananas",
+    "description": "Organic produced",
+    "category": "Fruits",
+    "price": 5,
+    "quantity": 20,
+    "images": [
+      "/images/products/Banana1.jpg"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Apples",
+    "description": "bigger & green",
+    "category": "Fruits",
+    "price": 6,
+    "quantity": 70,
+    "images": [
+      "/images/products/Apples.jpg"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Oranges",
+    "description": "bigger & jiucy",
+    "category": "Fruits",
+    "price": 7,
+    "quantity": 90,
+    "images": [
+      "/images/products/Orange.jpg"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Classic Iced Coffee",
+    "description": "feel the energy",
+    "category": "Beverages",
+    "price": 20,
+    "quantity": 40,
+    "images": [
+      "/images/products/Classic Iced Coffee.jpg"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Scrambled eggs",
+    "description": "feel the taste",
+    "category": "Food",
+    "price": 25,
+    "quantity": 50,
+    "images": [
+      "/images/products/Scrambled eggs.jpg"
+    ]
+  }
+]

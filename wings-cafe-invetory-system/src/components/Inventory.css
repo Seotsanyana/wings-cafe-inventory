@@ -1,0 +1,62 @@
+.inventory-container {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.inventory-controls {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+}
+
+.inventory-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1.5rem;
+}
+
+.inventory-card {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-left: 4px solid #2563eb;
+    position: relative;
+}
+
+.inventory-card .category {
+    color: #64748b;
+    font-size: 0.9rem;
+    margin: 0.5rem 0;
+}
+
+.inventory-card .price {
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin: 0.5rem 0;
+    color: #16a34a;
+}
+
+.inventory-card .quantity {
+    margin: 0.5rem 0;
+    font-weight: 500;
+}
+
+.inventory-card .quantity.low {
+    color: #dc2626;
+}
+
+.low-stock-badge {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: #dc2626;
+    color: white;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
