@@ -5,7 +5,7 @@
     "description": "Freshly brewed coffee",
     "category": "Beverages",
     "price": 15,
-    "quantity": 40,
+    "quantity": 30,
     "images": [
       "/images/products/Coffee.jpg"
     ]

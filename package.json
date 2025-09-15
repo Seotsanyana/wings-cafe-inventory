@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "backend": "node backend/server.js"
+  },
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
